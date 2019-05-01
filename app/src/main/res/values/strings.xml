@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Developer</string>
+    <string name="audu_omoh_kehinde">Username</string>
+    <string name="link">Github Link</string>
+    <string name="repository">Repository</string>
+    <string name="internet">Check your Internet Connection</string>
+</resources>
